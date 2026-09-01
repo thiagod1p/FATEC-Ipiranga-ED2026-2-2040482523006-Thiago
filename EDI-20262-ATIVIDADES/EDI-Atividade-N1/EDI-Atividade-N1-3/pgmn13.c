@@ -4,8 +4,8 @@
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
 * Objetivo do Programa : Alocação Dinâmica de Memória e Recursividade em Linguagem C                              *
 * (vetor alocado dinamicamente com malloc, percorrido e processado por meio de funções recursivas)                *
-* Data - 29 / 08 / 2026                                                                                           *
-* Autor : Ramon Felix David                                                                                       *
+* Data - 31 / 08 / 2026                                                                                           *
+* Autor : Thiago Moura de Souza Nunes                                                                                     *
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 #include <stdio.h>
 #include <stdlib.h>
